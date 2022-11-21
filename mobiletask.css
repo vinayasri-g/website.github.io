@@ -1,0 +1,37 @@
+.bgimg{
+    background-image: url("https://t4.ftcdn.net/jpg/03/24/12/91/240_F_324129160_pJ9Fd4jiC3frbdpbx8OxnrBXh6ooQL56.jpg");
+    background-size: cover;
+    height: 110vh;
+}
+
+
+.mealhead{
+    color:crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding:25px;
+
+}
+.layoutcard{
+    background-color:gold;
+    border-radius: 8px;
+    padding:18px;
+    margin:15px;
+}
+.mealcont{
+    color:rgb(154, 123, 184);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.mealpara{
+    color:gray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+.mealimg{
+width:100px ;
+height:100px ;
+}

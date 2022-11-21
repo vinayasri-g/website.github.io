@@ -1,0 +1,36 @@
+.bgimg{background-image:url("https://t4.ftcdn.net/jpg/00/64/06/39/240_F_64063930_3figFptK3a226RfsYOYofghJenJsxjur.jpg")  ;
+    background-size:cover;
+    height: 200vh;
+width: 100pw;}
+    .headfirst{color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding:25px;
+    }
+    .bgcardcarosel{
+        background-color: azure;
+        border-bottom-left-radius:10px  ;
+        border-bottom-right-radius:10px ;
+        height:80%;
+        width: 80%;
+        margin: 40px;
+        align-content: center;
+        display:block;
+    
+    }
+    .cardcon{padding:20px; 
+        background-color: aliceblue;
+    
+    }
+    .headsecond{color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;}
+    .paraline{color:#6c6b70 ;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:13px ;
+    
+    }
+    
+

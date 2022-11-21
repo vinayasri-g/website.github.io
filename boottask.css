@@ -1,0 +1,18 @@
+.bgimg{background-image: url("https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg&ga=GA1.2.761211204.1668081255");
+background-size: cover;
+width: 100vw;
+height: 100vh;
+}
+.layoutcard{background-color:gold;
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;}
+.btn{border-radius: 20px;
+width: 30vw;
+height: 5vh;
+padding:5%;
+margin-right: 1%;
+margin-bottom: 1%;
+margin-left: 1%;}
+.heading{color: rgb(47, 34, 135);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 1%;}
